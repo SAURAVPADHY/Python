@@ -1,0 +1,5 @@
+n1= input("Enter Number:")
+n2= input("Enter Number:")
+division= float(n1)/float(n2)
+division= "{:.9f}".format(division)
+print(division)
